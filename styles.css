@@ -12,7 +12,7 @@ min-height: 50px;
 background-color: lightgray;
 padding-left: 2%;
 line-height: 50px;
-
+margin: 10px;
  }
 
  .div-2 {
@@ -21,6 +21,7 @@ line-height: 50px;
     background-color: lightgray;
     text-align: center;
     line-height: 100px;
+    margin: 5Opx;
  }
 
  .div-3 {
@@ -34,10 +35,11 @@ line-height: 50px;
  
  .div-4 {
     width: 100%;
-    min-height: 100px;
+    min-height: 60px;
     background-color: lightgray;
     text-align: center;
-    line-height: 100px;
+    line-height: 60px;
+    margin: 50p;
 
  }
 
