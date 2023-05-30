@@ -33,5 +33,18 @@ line-height: 50px;
  }
  
  .div-4 {
-    
+    width: 100%;
+    min-height: 100px;
+    background-color: lightgray;
+    text-align: center;
+    line-height: 100px;
+
+ }
+
+ #sidebar {
+
+ }
+
+ #bodyarea {
+
  }
