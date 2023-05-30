@@ -14,15 +14,6 @@ padding-left: 2%;
 line-height: 50px;
 
  }
- 
- .nav {
-width: 100%;
-background-color: lightgray;
-min-height: 30px;
-margin-bottom: 10%;
-text-align: center;
-line-height: 30px
- }
 
  .div-2 {
     width: 100%;
@@ -34,4 +25,13 @@ line-height: 30px
 
  .div-3 {
 
+    width: 100%;
+    min-height: 100px;
+    background-color: lightgray;
+    text-align: center;
+    line-height: 100px;
+ }
+ 
+ .div-4 {
+    
  }
