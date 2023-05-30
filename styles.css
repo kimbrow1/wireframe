@@ -31,19 +31,22 @@ margin: 10px;
     background-color: lightgray;
     text-align: center;
     line-height: 100px;
+    margin-bottom: 50px;
  }
  
  .div-4 {
     width: 100%;
-    min-height: 60px;
+    min-height: 100px;
     background-color: lightgray;
     text-align: center;
-    line-height: 60px;
-    margin: 50p;
+    line-height: 100px;
 
  }
 
  #sidebar {
+    width: 20%;
+    min-height: 400px;
+    background-color: lightgray;
 
  }
 
