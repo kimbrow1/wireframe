@@ -1,8 +1,25 @@
-.large-box {
 
-}
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+ }
 
-.mid-box {
+ #div1 {
+width: 100%;
+min-height: 50px;   
+background-color: lightgray;
+padding-left: 2%;
+line-height: 50px;
 
-
-}
+ }
+ 
+ .nav {
+width: 100%;
+background-color: lightgray;
+min-height: 30px;
+margin-bottom: 10%;
+text-align: center;
+line-height: 30px
+ }
