@@ -26,6 +26,8 @@ font-style: italic;
     margin: 5Opx;
     font-weight: bold;
     font-style: italic;
+    margin-top: 10px;
+
  }
 
  .div-3 {
@@ -71,3 +73,9 @@ font-style: italic;
    font-style: italic;
    font-weight: bold;
  }
+
+#footer {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
