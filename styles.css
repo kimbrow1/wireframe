@@ -47,9 +47,13 @@ margin: 10px;
     width: 20%;
     min-height: 400px;
     background-color: lightgray;
+    float: left;
 
  }
 
  #bodyarea {
-
+    width: 75%;
+    min-height: 400px;
+    background-color: lightgrey;
+    float: right;
  }
