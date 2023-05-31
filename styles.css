@@ -6,76 +6,40 @@
     font-family: 'Times New Roman', Times, serif;
  }
 
- #div1 {
-width: 100%;
-min-height: 50px;   
-background-color: lightgray;
-padding-left: 2%;
-line-height: 50px;
-margin: 10px;
-font-weight: bold;
-font-style: italic;
+ main {
+   width: 960px;
+   margin-left: auto;
+   margin-right: auto;
  }
 
- .div-2 {
-    width: 100%;
-    min-height: 100px;
-    background-color: lightgray;
-    text-align: center;
-    line-height: 100px;
-    margin: 5Opx;
-    font-weight: bold;
-    font-style: italic;
-    margin-top: 10px;
 
+ section {
+   width: 960px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
  }
 
- .div-3 {
+.mid-box {
+   flex-wrap: wrap;
+   justify-content: space-between;
+}
 
-    width: 100%;
-    min-height: 100px;
-    background-color: lightgray;
-    text-align: center;
-    line-height: 100px;
-    margin-bottom: 50px;
-    margin-top: 30px;
-    font-weight: bold;
-    font-style: italic;
- }
 
- #sidebar {
-    width: 20%;
-    min-height: 400px;
-    background-color: lightgray;
-    float: left;
-    text-align: center;
-    line-height: 900%;
-    font-weight: bold;
-    font-style: italic;
 
- }
+.small-box {
+   margin-left: auto;
+   margin-right: auto;
+   justify-content: space-between;
+   flex-wrap: wrap;
 
- #bodyarea {
-    width: 75%;
-    min-height: 400px;
-    background-color: lightgrey;
-    float: right;
-    margin-right: 60px;
-    text-align: center;
-    line-height: 1000%;
-    font-weight: bold;
-    font-style: italic;
-    
- }
+}
+ 
+nav {
+   text-align: center;
+   
+}
 
- p {
-   font-size: xx-large;
-   font-style: italic;
-   font-weight: bold;
- }
+footer {
 
-#footer {
-    text-align: center;
-    font-weight: bold;
-    font-style: italic;
 }
